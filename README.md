@@ -2,7 +2,7 @@
 
 Este repositorio contiene la configuración (Prompt) para un Asistente de IA especializado en analizar, comparar y presupuestar precios de supermercados, farmacias y aplicaciones de delivery en Caracas y Miranda (Venezuela).
 
-[![Google Badge](https://img.shields.io/badge/Google-Gems-blue?style=flat&logo=google)](TU_ENLACE_DEL_GEM_AQUI) 
+[![Google Badge](https://img.shields.io/badge/Google-Gems-blue?style=flat&logo=google)](https://gemini.google.com/gem/17p0wb7n8iKTGyCob5Wymo9iJBaFFhXDn?usp=sharing) 
 
 ## 🎯 Objetivo del Proyecto
 
