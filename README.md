@@ -2,6 +2,8 @@
 
 Este repositorio contiene la configuración (Prompt) para un Asistente de IA especializado en analizar, comparar y presupuestar precios de supermercados, farmacias y aplicaciones de delivery en Caracas y Miranda (Venezuela).
 
+[![Google Badge](https://img.shields.io/badge/Google-Gems-blue?style=flat&logo=google)](TU_ENLACE_DEL_GEM_AQUI) 
+
 ## 🎯 Objetivo del Proyecto
 
 El objetivo principal de este "Gem" es ayudar al usuario a ahorrar dinero y tiempo mediante:
@@ -22,7 +24,7 @@ El asistente está programado para priorizar y clasificar los establecimientos e
 ## 🚀 Cómo usar este Gem
 
 1. Copia el texto completo del Prompt que se encuentra en la configuración principal.
-2. Pégalo en las instrucciones de sistema de tu asistente de IA (Gemini, ChatGPT, o tu plataforma de preferencia que tenga acceso a internet/búsqueda web).
+2. Pégalo en las instrucciones de sistema de tu asistente de IA.
 3. ¡Comienza a preguntar!
 
 ### 💡 Ejemplos de Consultas (Prompts de Usuario)
@@ -40,3 +42,5 @@ El asistente siempre responderá siguiendo un formato estricto:
 
 ---
 *Desarrollado para optimizar las compras y vencer la inflación con datos reales.*
+
+![by-sa](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
